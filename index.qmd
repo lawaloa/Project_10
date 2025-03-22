@@ -74,5 +74,5 @@ You assume a **10% significance level**, and use the following null and alternat
 
 ## Data Source
 
-The primary data used for this analysis is the `men_results.csv` and `women_results.csv`, which can be downloaded [here](https://github.com/lawaloa/Project_8/blob/main/nutrition.json){target="_blank"}. See @tbl-nurt for the column names and descriptions.
+The primary data used for this analysis is the `men_results.csv` and `women_results.csv`, which can be downloaded [here](https://github.com/lawaloa/Project_8/blob/main/nutrition.json){target="_blank"}. See @tbl-datasets for the column names and descriptions.
 
